@@ -1,0 +1,190 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/metalcoreLoli/Documents/Projects/CSharp/TicTacTou/Tests/ticTacTou.Logic.Test/ticTacTou.Logic.Test.csproj": {}
+  },
+  "projects": {
+    "/home/metalcoreLoli/Documents/Projects/CSharp/TicTacTou/Tests/ticTacTou.Logic.Test/ticTacTou.Logic.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/metalcoreLoli/Documents/Projects/CSharp/TicTacTou/Tests/ticTacTou.Logic.Test/ticTacTou.Logic.Test.csproj",
+        "projectName": "ticTacTou.Logic.Test",
+        "projectPath": "/home/metalcoreLoli/Documents/Projects/CSharp/TicTacTou/Tests/ticTacTou.Logic.Test/ticTacTou.Logic.Test.csproj",
+        "packagesPath": "/home/metalcoreLoli/.nuget/packages/",
+        "outputPath": "/home/metalcoreLoli/Documents/Projects/CSharp/TicTacTou/Tests/ticTacTou.Logic.Test/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/metalcoreLoli/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "/home/metalcoreLoli/Documents/Projects/CSharp/TicTacTou/ticTacTou.Logic/ticTacTou.Logic.csproj": {
+                "projectPath": "/home/metalcoreLoli/Documents/Projects/CSharp/TicTacTou/ticTacTou.Logic/ticTacTou.Logic.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.9.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "include": "None",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.0-preview7-27912-14, )",
+              "autoReferenced": true
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.11.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          }
+        }
+      }
+    },
+    "/home/metalcoreLoli/Documents/Projects/CSharp/TicTacTou/ticTacTou.Datatypes/ticTacTou.Datatypes.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/metalcoreLoli/Documents/Projects/CSharp/TicTacTou/ticTacTou.Datatypes/ticTacTou.Datatypes.csproj",
+        "projectName": "ticTacTou.Datatypes",
+        "projectPath": "/home/metalcoreLoli/Documents/Projects/CSharp/TicTacTou/ticTacTou.Datatypes/ticTacTou.Datatypes.csproj",
+        "packagesPath": "/home/metalcoreLoli/.nuget/packages/",
+        "outputPath": "/home/metalcoreLoli/Documents/Projects/CSharp/TicTacTou/ticTacTou.Datatypes/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/metalcoreLoli/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "/home/metalcoreLoli/Documents/Projects/CSharp/TicTacTou/ticTacTou.Logic/ticTacTou.Logic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/metalcoreLoli/Documents/Projects/CSharp/TicTacTou/ticTacTou.Logic/ticTacTou.Logic.csproj",
+        "projectName": "ticTacTou.Logic",
+        "projectPath": "/home/metalcoreLoli/Documents/Projects/CSharp/TicTacTou/ticTacTou.Logic/ticTacTou.Logic.csproj",
+        "packagesPath": "/home/metalcoreLoli/.nuget/packages/",
+        "outputPath": "/home/metalcoreLoli/Documents/Projects/CSharp/TicTacTou/ticTacTou.Logic/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/metalcoreLoli/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "/home/metalcoreLoli/Documents/Projects/CSharp/TicTacTou/ticTacTou.Datatypes/ticTacTou.Datatypes.csproj": {
+                "projectPath": "/home/metalcoreLoli/Documents/Projects/CSharp/TicTacTou/ticTacTou.Datatypes/ticTacTou.Datatypes.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

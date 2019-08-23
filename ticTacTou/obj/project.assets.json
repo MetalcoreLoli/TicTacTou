@@ -1,0 +1,107 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "ticTacTou.Datatypes/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/ticTacTou.Datatypes.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ticTacTou.Datatypes.dll": {}
+        }
+      },
+      "ticTacTou.Logic/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "ticTacTou.Datatypes": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ticTacTou.Logic.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ticTacTou.Logic.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ticTacTou.Datatypes/1.0.0": {
+      "type": "project",
+      "path": "../ticTacTou.Datatypes/ticTacTou.Datatypes.csproj",
+      "msbuildProject": "../ticTacTou.Datatypes/ticTacTou.Datatypes.csproj"
+    },
+    "ticTacTou.Logic/1.0.0": {
+      "type": "project",
+      "path": "../ticTacTou.Logic/ticTacTou.Logic.csproj",
+      "msbuildProject": "../ticTacTou.Logic/ticTacTou.Logic.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.0": [
+      "ticTacTou.Datatypes >= 1.0.0",
+      "ticTacTou.Logic >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/home/metalcoreLoli/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/metalcoreLoli/Documents/Projects/CSharp/TicTacTou/ticTacTou/ticTacTou.csproj",
+      "projectName": "ticTacTou",
+      "projectPath": "/home/metalcoreLoli/Documents/Projects/CSharp/TicTacTou/ticTacTou/ticTacTou.csproj",
+      "packagesPath": "/home/metalcoreLoli/.nuget/packages/",
+      "outputPath": "/home/metalcoreLoli/Documents/Projects/CSharp/TicTacTou/ticTacTou/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/metalcoreLoli/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "projectReferences": {
+            "/home/metalcoreLoli/Documents/Projects/CSharp/TicTacTou/ticTacTou.Datatypes/ticTacTou.Datatypes.csproj": {
+              "projectPath": "/home/metalcoreLoli/Documents/Projects/CSharp/TicTacTou/ticTacTou.Datatypes/ticTacTou.Datatypes.csproj"
+            },
+            "/home/metalcoreLoli/Documents/Projects/CSharp/TicTacTou/ticTacTou.Logic/ticTacTou.Logic.csproj": {
+              "projectPath": "/home/metalcoreLoli/Documents/Projects/CSharp/TicTacTou/ticTacTou.Logic/ticTacTou.Logic.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+/home/metalcoreLoli/Documents/Projects/CSharp/TicTacTou/ticTacTou/bin/Debug/netcoreapp3.0/ticTacTou
+/home/metalcoreLoli/Documents/Projects/CSharp/TicTacTou/ticTacTou/bin/Debug/netcoreapp3.0/ticTacTou.deps.json
+/home/metalcoreLoli/Documents/Projects/CSharp/TicTacTou/ticTacTou/bin/Debug/netcoreapp3.0/ticTacTou.runtimeconfig.json
+/home/metalcoreLoli/Documents/Projects/CSharp/TicTacTou/ticTacTou/bin/Debug/netcoreapp3.0/ticTacTou.runtimeconfig.dev.json
+/home/metalcoreLoli/Documents/Projects/CSharp/TicTacTou/ticTacTou/bin/Debug/netcoreapp3.0/ticTacTou.dll
+/home/metalcoreLoli/Documents/Projects/CSharp/TicTacTou/ticTacTou/bin/Debug/netcoreapp3.0/ticTacTou.pdb
+/home/metalcoreLoli/Documents/Projects/CSharp/TicTacTou/ticTacTou/bin/Debug/netcoreapp3.0/ticTacTou.Datatypes.dll
+/home/metalcoreLoli/Documents/Projects/CSharp/TicTacTou/ticTacTou/bin/Debug/netcoreapp3.0/ticTacTou.Logic.dll
+/home/metalcoreLoli/Documents/Projects/CSharp/TicTacTou/ticTacTou/bin/Debug/netcoreapp3.0/ticTacTou.Logic.pdb
+/home/metalcoreLoli/Documents/Projects/CSharp/TicTacTou/ticTacTou/bin/Debug/netcoreapp3.0/ticTacTou.Datatypes.pdb
+/home/metalcoreLoli/Documents/Projects/CSharp/TicTacTou/ticTacTou/obj/Debug/netcoreapp3.0/ticTacTou.csprojAssemblyReference.cache
+/home/metalcoreLoli/Documents/Projects/CSharp/TicTacTou/ticTacTou/obj/Debug/netcoreapp3.0/ticTacTou.csproj.CoreCompileInputs.cache
+/home/metalcoreLoli/Documents/Projects/CSharp/TicTacTou/ticTacTou/obj/Debug/netcoreapp3.0/ticTacTou.AssemblyInfoInputs.cache
+/home/metalcoreLoli/Documents/Projects/CSharp/TicTacTou/ticTacTou/obj/Debug/netcoreapp3.0/ticTacTou.AssemblyInfo.cs
+/home/metalcoreLoli/Documents/Projects/CSharp/TicTacTou/ticTacTou/obj/Debug/netcoreapp3.0/ticTacTou.csproj.CopyComplete
+/home/metalcoreLoli/Documents/Projects/CSharp/TicTacTou/ticTacTou/obj/Debug/netcoreapp3.0/ticTacTou.dll
+/home/metalcoreLoli/Documents/Projects/CSharp/TicTacTou/ticTacTou/obj/Debug/netcoreapp3.0/ticTacTou.pdb
